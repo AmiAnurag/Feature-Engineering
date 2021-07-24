@@ -12,3 +12,5 @@ Feature engineering for continous data
   3.End distribution Imputation
   
  A better way of storing information about nan values with increasing the dimensionality by one column only hence avoiding curse of dimensionality.
+ 
+ (this file will get updated with all kinds and techniques of feature engineering soon)
