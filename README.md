@@ -15,9 +15,11 @@ Topics covered:
   
 ## Engineering techniques to handle missing value in categorical data
     
-    1. Frequent Value Imputation
-    2. New Value Imputation
-    3. A new way of storing the nan information , this way can even predict the nature of missing values(mcar,mar,mnar)
+   1.Frequent Value Imputation
+   
+   2. New Value Imputation
+   
+   3. A new way of storing the nan information , this way can even predict the nature of missing values(mcar,mar,mnar)
   
 
  
