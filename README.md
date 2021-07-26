@@ -15,6 +15,7 @@ Topics covered:
   
 ## Engineering techniques to handle missing value in categorical data
     
+   
    1.Frequent Value Imputation
    
    2. New Value Imputation
