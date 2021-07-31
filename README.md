@@ -22,6 +22,13 @@ Topics covered:
    
    3. A new way of storing the nan information , this way can even predict the nature of missing values(mcar,mar,mnar)
   
+## Labelling Techniques of Categorical Variable 
 
+   1.Ordinal Encoding using sklearn OrdinalEncoder
+   2.One Hot Encoding
+   3.Ordinal Encoding based upon user define preference
+   4.Count Frequency Encoding
+   5.Target Guided Rank precedence ordinal encoding
+   6.Mean Guided Ordinal Encoding
  
- (this file will get updated with all kinds and techniques of feature engineering soon)
+ (this file will get updated with all  techniques of feature engineering soon)
